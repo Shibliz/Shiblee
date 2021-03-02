@@ -24,13 +24,13 @@ h4 {
    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
-   -webkit-border-radius: 30px;
-   -moz-border-radius: 30px;
-   border-radius: 30px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
    color: #FFFFFF;
    font-family: 'Paytone One', sans-serif;   font-size: 20px;
    font-weight: 100;
-   padding: 25px;
+   padding: 15px;
    -webkit-box-shadow: inset -4px 1px 23px 4px #0059A0;
    -moz-box-shadow: inset -4px 1px 23px 4px #0059A0;
    box-shadow: inset -4px 1px 23px 4px #0059A0;
